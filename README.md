@@ -37,3 +37,9 @@ I created this repository to:
 - JavaScript
 
 More projects and learning work will be added as I continue improving my skills.
+
+Collaboration Log
+Pairing Partner: Manasvi
+GitHub Username: @manugowda5706mansvi
+- Built Together: We worked together to build the "greet()" function.
+- What I Learned: I learned how to use GitLens to view blame annotations and identify who made changes to specific lines of code.
