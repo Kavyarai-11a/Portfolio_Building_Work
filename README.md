@@ -54,3 +54,6 @@ GitHub Username: @manugowda5706mansvi
 - Built Together: We worked together to build the "greet()" function.
 - What I Learned: I learned how to use GitLens to view blame annotations and identify who made changes to specific lines of code.
 
+## Projects
+
+I am working on projects that help me improve my programming, problem-solving, and Technical skills.
