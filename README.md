@@ -10,6 +10,8 @@ Learning C, C++, Java, Python, SQL, and GitHub.
 
 Interested in cybersecurity and software development. 
 
+Goal: Build strong technical skills and contribute to meaningful technology projects.
+
 This repository contains my programming practice, experiments, and learning work as I build my programming skills and portfolio.
 
 ## 💻 Languages
