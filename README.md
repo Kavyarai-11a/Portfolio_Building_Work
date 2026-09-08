@@ -6,6 +6,8 @@ Welcome to my GitHub repository! 👋
 
 I am Kavya Rai, a Computer Science Engineering student. I am interested in programming, cybersecurity, and technology. This repository is a collection of my learning, coding practice, projects, and progress as I develop my technical skills.
 
+Learning C, C++, Java, Python, SQL, and GitHub.
+
 This repository contains my programming practice, experiments, and learning work as I build my programming skills and portfolio.
 
 ## 💻 Languages
