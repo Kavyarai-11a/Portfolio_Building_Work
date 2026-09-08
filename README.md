@@ -2,6 +2,10 @@
 
 Welcome to my GitHub repository! 👋
 
+# Kavya Rai
+
+I am Kavya Rai, a Computer Science Engineering student. I am interested in programming, cybersecurity, and technology. This repository is a collection of my learning, coding practice, projects, and progress as I develop my technical skills.
+
 This repository contains my programming practice, experiments, and learning work as I build my programming skills and portfolio.
 
 ## 💻 Languages
@@ -43,3 +47,4 @@ Pairing Partner: Manasvi
 GitHub Username: @manugowda5706mansvi
 - Built Together: We worked together to build the "greet()" function.
 - What I Learned: I learned how to use GitLens to view blame annotations and identify who made changes to specific lines of code.
+
